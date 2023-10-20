@@ -40,3 +40,10 @@
     opacity: 0.5;
     z-index: -1;
 }
+
+.columnaDashboard{
+    height: 100vh;
+}
+.opcion:hover{
+    opacity: 0.5;
+}
